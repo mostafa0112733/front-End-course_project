@@ -1,0 +1,29 @@
+/* corna covid-19 virus */
+.f{
+display: flex;
+margin-left: 30px;
+
+}
+.f h1 {
+color: gray;
+font-size: 150px;
+font-weight: bold;
+font-family: 'Teko', sans-serif;}
+.f h2{
+    font-size: 45px;
+    top:0;
+    font-weight: bold;
+font-family: 'Teko', sans-serif;
+padding-top: 20px;
+color: #EF5B0C;
+}
+.f h2 span{
+    color: gray;
+    font-size: 70px;
+}
+/* end */
+p{
+    font-weight: bold;
+    
+}
+
